@@ -28,21 +28,21 @@ I'm Ahmed Ayodele, a passionate coder who thrives on crafting exceptional projec
 
 #### IDE
 
-<div style="width: 26px; display: inline-block;">
-  <img src="https://github.com/Undisputed-jay/Undisputed-jay/assets/76854346/05e14143-4e5f-4c07-8390-198965bec40e" alt="vscode">
-</div>
-<div style="width: 26px; display: inline-block;">
-  <img src="https://github.com/Undisputed-jay/Undisputed-jay/assets/76854346/306bb3ea-f517-4d48-b2d7-cdd470f8e848" alt="datbricks">
-</div>
-<div style="width: 26px; display: inline-block;">
-  <img src="https://github.com/Undisputed-jay/Undisputed-jay/assets/76854346/125f0bed-39c2-49dd-a565-8a49760eded3" alt="jupyter">
-</div>
-<div style="width: 26px; display: inline-block;">
-  <img src="https://github.com/Undisputed-jay/Undisputed-jay/assets/76854346/c32dd1e0-7d36-47b2-b22e-33f0a7eadefd" alt="sql-server">
-</div>
-<div style="width: 26px; display: inline-block;">
-  <img src="https://github.com/Undisputed-jay/Undisputed-jay/assets/76854346/f34439b4-1a7c-4498-90db-1fa88c865de0" alt="postgresql">
-</div>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="VScode" height="50px" style="padding-right:10px;">
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2022" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" height="50px" style="padding-right:10px;">
+</a>
+<a href="https://jupyter.org//" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="50px" style="padding-right:10px;">
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img  alt="Docker" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
+  </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50px" style="padding-right:10px;">
+</a>>
 
 <br />
 <br />
