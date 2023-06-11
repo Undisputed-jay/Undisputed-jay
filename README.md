@@ -19,9 +19,8 @@ I'm Ahmed Ayodele, a passionate coder who thrives on crafting exceptional projec
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Python Badge](https://img.shields.io/badge/-PYTHON-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![SQL Badge](https://img.shields.io/badge/-SQL-F8B195?style=for-the-badge&labelColor=000000&logo=svg)](#)
- [![Apache Airflow Badge](https://img.shields.io/badge/-Apache--Airflow-6C5B7B?style=for-the-badge&labelColor=F0F0F0&logo=apache-airflow&logoColor=6C5B7B)](#)
- [![Snowflake Badge](https://img.shields.io/badge/-Snowflake-355C7D?style=for-the-badge&labelColor=95A8F8&logo=Snowflake&logoColor=white)](#)
+[![Python Badge](https://img.shields.io/badge/-PYTHON-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![SQL Badge](https://img.shields.io/badge/-SQL-F8B195?style=for-the-badge&labelColor=000000&logo=svg)](#) [![Apache Airflow Badge](https://img.shields.io/badge/-Apache--Airflow-6C5B7B?style=for-the-badge&labelColor=F0F0F0&logo=apache-airflow&logoColor=6C5B7B)](#)
+[![Snowflake Badge](https://img.shields.io/badge/-Snowflake-355C7D?style=for-the-badge&labelColor=95A8F8&logo=Snowflake&logoColor=white)](#)
 [![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=white)](#)
 [![GCP Badge](https://img.shields.io/badge/-GCP-FF5733?style=for-the-badge&labelColor=grey&logo=google-cloud&logoColor=FF5733)](#)
 [![PySpark Badge](https://img.shields.io/badge/-PySpark-c70039?style=for-the-badge&labelColor=yellow&logo=apache-spark&logoColor=FF5733)](#)
@@ -48,10 +47,6 @@ I'm Ahmed Ayodele, a passionate coder who thrives on crafting exceptional projec
 <br />
 <br />
 
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Undisputed-jay.Undisputed-jay&left_color=green&right_color=red)
 
 <details>
 <summary>
