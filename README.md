@@ -10,10 +10,10 @@ I'm Ahmed Ayodele, a passionate coder who thrives on crafting exceptional projec
 
 - 🔭 I'm currently pursuing MSc Data Science @University of Salford, Manchester..
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
+- 🤔 I’m always looking out to share ideas and gain knowledge.
 - 📫 How to reach me: ayodeleahmed219@gmail.com.
 - 😄 Pronouns: He / Him.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- ⚡ Hobbies: Music, Travelling and Reading.
 
 #### Top Technologies
 
