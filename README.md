@@ -64,67 +64,6 @@ Additionally, I have a strong technical background and am proficient in several 
 Overall, my expertise and skills enable me to provide valuable insights and solutions to complex business problems using data-driven approaches, and my ability to communicate technical findings effectively to a broad audience makes me a valuable asset to any organization.
 
 
-
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-<style>
-  .progress-bar {
-    background-color: lightgray;
-    height: 20px;
-    width: 100%;
-    border-radius: 5px;
-    overflow: hidden;
-  }
-
-  .bar {
-    height: 100%;
-  }
-
-  .python {
-    background-color: #3572A5;
-    width: 70%;
-  }
-
-  .sql {
-    background-color: #FFD700;
-    width: 70%;
-  }
-
-  .airflow {
-    background-color: #007BFF;
-    width: 60%;
-  }
-
-  .snowflake {
-    background-color: #48A9A6;
-    width: 60%;
-  }
-
-  .docker {
-    background-color: #0DB7ED;
-    width: 50%;
-  }
-</style>
-
-<div class="progress-bar">
-  <div class="bar python"></div>
-  <div class="bar sql"></div>
-  <div class="bar airflow"></div>
-  <div class="bar snowflake"></div>
-  <div class="bar docker"></div>
-</div>
-<ul class="languages">
-  <li>Python  70%</li>
-  <li>SQL        70%</li>
-  <li>Apache-Airflow     60%</li>
-  <li>Snowflake        60%</li>
-  <li>Docker         50%</li>
-</ul>
-
-
-<!--END_SECTION:waka-->
-
 #### Github Stats
 
 ![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=Undisputed-jay&count_private=true&theme=tokyonight&hide=contribs,prs)
