@@ -1,6 +1,6 @@
 ## Hi! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Ahmed Ayodele, a passionate coder who thrives on crafting exceptional projects and conquering exciting Kaggle challenges. My time is devoted to coding and pushing boundaries to create outstanding solutions. Currently honing my skills as a Data Science enthusiast.
+I'm Ahmed Ayodele, a passionate coder who thrives on crafting exceptional projects and conquering exciting Kaggle challenges. My time is devoted to coding and pushing boundaries to create outstanding solutions. Currently honing my skills to be a better Data Scientist.
 
 :mailbox: Reach out!
 
@@ -8,7 +8,7 @@ I'm Ahmed Ayodele, a passionate coder who thrives on crafting exceptional projec
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I'm currently pursuing MSc Data Science @University of Salford, Manchester..
+- 🔭 MSc Data Scientist @University of Salford, Manchester..
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m always looking out to share ideas and gain knowledge.
 - 📫 How to reach me: ayodeleahmed219@gmail.com.
