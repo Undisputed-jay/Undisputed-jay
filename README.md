@@ -8,7 +8,7 @@ I'm Ahmed Ayodele, a passionate coder who thrives on crafting exceptional projec
 
 <!-- TODO: Add last video link -->
 
-- 🔭 MSc Data Scientist @University of Salford, Manchester..
+- 🔭 MSc. Data Science @University of Salford, Manchester..
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m always looking out to share ideas and gain knowledge.
 - 📫 How to reach me: ayodeleahmed219@gmail.com.
